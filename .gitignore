@@ -1,0 +1,43 @@
+# ======================
+# C++ (compiled files)
+# ======================
+a.out
+*.out
+*.o
+*.obj
+*.exe
+hello
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv
+venv/
+ENV/
+
+# ======================
+# Node.js / JavaScript
+# ======================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+*.code-workspace
+
+# ======================
+# MacOS system files
+# ======================
+.DS_Store
