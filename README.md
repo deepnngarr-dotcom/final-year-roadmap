@@ -23,8 +23,8 @@ web/ → Web development projects (Node.js, React, MERN stack)
 ---
 
 ## 📝 Progress
-- ✅ C++ basics (Hello World, arrays, strings)  
-- ✅ Python basics (Hello World, print today’s date)  
+- ✅ C++ basics (arrays, strings)  
+- ✅ Python basics (print today’s date)  
 - 🔜 Web Development (React + Node.js + MongoDB)  
 
 ---
