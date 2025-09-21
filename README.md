@@ -43,7 +43,7 @@ cd python
 python3 date_today.py
 
 
-###Web (future setup)
+### Web (future setup)
 cd web
 npm install
 npm start
