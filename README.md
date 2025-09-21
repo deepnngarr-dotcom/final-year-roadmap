@@ -43,18 +43,19 @@ cd python
 python3 date_today.py
 
 
-### Web (future setup)
+### Web 
 cd web
 npm install
 npm start
 
 
-🌟 About Me
+### 🌟 About Me
 I am Deepak Nagar, an MCA final year student passionate about problem solving, web development, and AI/ML.
 My roadmap includes:
 DSA for coding interviews (C++)
 Full-Stack projects for placements (MERN stack)
 Exploring AI/ML with Python
+
 🔗 Connect With Me
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/deepak-nagar-software)  
