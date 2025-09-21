@@ -28,20 +28,27 @@ web/ → Web development projects (Node.js, React, MERN stack)
 - 🔜 Web Development (React + Node.js + MongoDB)  
 
 ---
-
 ## 📌 How to Run
+
 ### C++
 
 cd cpp
 g++ hello.cpp -o hello
 ./hello
 
+
+
+### Python
 cd python
 python3 date_today.py
 
+
+###Web (future setup)
 cd web
 npm install
 npm start
+
+
 🌟 About Me
 I am Deepak Nagar, an MCA final year student passionate about problem solving, web development, and AI/ML.
 My roadmap includes:
