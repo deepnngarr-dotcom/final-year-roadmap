@@ -31,7 +31,7 @@ web/ → Web development projects (Node.js, React, MERN stack)
 
 ## 📌 How to Run
 ### C++
-```bash
+
 cd cpp
 g++ hello.cpp -o hello
 ./hello
