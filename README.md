@@ -35,10 +35,10 @@ web/ → Web development projects (Node.js, React, MERN stack)
 cd cpp
 g++ hello.cpp -o hello
 ./hello
-Python
+
 cd python
 python3 date_today.py
-Web (future setup)
+
 cd web
 npm install
 npm start
